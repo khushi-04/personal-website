@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://khushi-04.github.io/personal-website",
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "autoprefixer": "^10.4.20",
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.45",

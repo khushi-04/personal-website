@@ -7,7 +7,7 @@ function App() {
         <h1 className="text-2xl">Welcome to Khushi Chaudhari's Personal Website</h1>
       </div>
       <div classname="bg-blue-100 text-white p-4">
-        AboutMe
+        <AboutMe />
       </div>
       </div>
     );
